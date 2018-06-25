@@ -2,7 +2,8 @@
 say_hello = "Gabriela"
 
 def say_hello(name)
-puts name
+
+  puts Hello Kent Beck!
 end
 
 say_hello
